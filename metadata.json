@@ -1,0 +1,6 @@
+{
+  "name": "ARES-EVA: Marswalk Mission Planner",
+  "description": "Tactical planetary surface operations and EVA traverse mission planner for Mars exploration with multi-layered orbital telemetry, hazard detection, and astronaut field HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
